@@ -28,7 +28,8 @@ body{
 }
 
 .contain_div{
-    width: 450px;
+    min-width: 350px;
+    max-width: 900px;
     height:450px ;
     border-radius: 1rem;
     display: flex;
